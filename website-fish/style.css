@@ -1,0 +1,93 @@
+body {
+  color: purple;
+  font-family: verdana, Arial, Geneva, Arial Black;
+  font-weight: bold;
+  background-color: pink;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  margin:0;
+  background-image:  url('clouds.jpg');
+  
+  }
+  h1,h2 {
+  text-decoration:underline overline;
+  text-align:center;
+  }
+  h3 {
+  text-decoration:underline overline;
+  color:f4c456;
+  
+  }
+  h1 {
+  color: green ;
+  
+  
+  }
+  p.para1 {
+  color: red ;
+  font-size: 25px;
+  
+  }
+  
+  
+  
+  p.paragraph {
+  color: gray ;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 1.5em;
+  background-color: #e5e4d7;
+  padding: 20px 20px 20px 70px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  margin: 20px
+  
+  
+  }
+  
+  #para4background {
+  color: gray ;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 1.5em;
+  background-color: #e5e4d7;
+  padding: 20px 20px 20px 70px;
+  border-color: black;
+  border-width: 2px;
+  border-style: ridge;
+  margin-left: 500px
+  
+  }
+  
+  img.imagec {
+  display: block;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 3px;
+  background-color: silver;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  
+  
+  
+  }
+  .highlight {
+  background-color:#ffff00;
+  }
+  
+  a:link {
+  color:blue
+  }
+  a:visited{
+  color:#8c8c9d
+  }
+  a:hover{
+  color:#f15a51
+  
+  
+  
